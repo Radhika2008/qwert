@@ -1,0 +1,41 @@
+
+            h1 {
+                color: brown;
+            }
+
+            
+        
+            .header{
+                display:flex;
+                justify-content:space-between;
+
+            }
+.discription{
+display:flex;
+flex-direction: column;
+color:aqua;
+font-family: sans-serif;
+
+}
+            
+.parent{
+display:flex;
+flex-wrap:wrap;
+justify-content: space-evenly;
+color: deeppink;
+font-family:'Gill Sans';
+
+}
+
+.social-media{
+display:flex;
+justify-content: center;
+
+}
+
+p{
+     
+    font-size:25px;
+}
+
+
